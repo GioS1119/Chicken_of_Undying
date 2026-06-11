@@ -1,0 +1,19 @@
+{
+  "advancements.adventure.totem_of_undying.description": "Use a Chicken of Undying to cheat death",
+  "item.minecraft.totem_of_undying": "Chicken of Undying",
+
+
+  "rpo.dddChickenU": "3D Chicken of Undying",
+  "rpo.dddChickenU.ddTexture": "2D texture",
+  "rpo.dddChickenU.ddTexture.tooltip": "Enables an alternative 2D texture for the item (note: each option includes the previous ones)",
+  "rpo.dddChickenU.ddTexture.never": "Never",
+  "rpo.dddChickenU.ddTexture.gui": "GUI",
+  "rpo.dddChickenU.ddTexture.ground": "Ground",
+  "rpo.dddChickenU.ddTexture.container": "Containers",
+  "rpo.dddChickenU.ddTexture.always": "Always",
+  "rpo.dddChickenU.ddTexture.never.tooltip": "always use the 3D texture",
+  "rpo.dddChickenU.ddTexture.gui.tooltip": "only in GUIs",
+  "rpo.dddChickenU.ddTexture.ground.tooltip": "when dropped on the ground and in GUIs",
+  "rpo.dddChickenU.ddTexture.container.tooltip": "in item frames, on shelves, when dropped on the ground and in GUIs",
+  "rpo.dddChickenU.ddTexture.always.tooltip": "always, even in hand"
+}

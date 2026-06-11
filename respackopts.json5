@@ -1,0 +1,18 @@
+{
+    id: "dddChickenU",
+    version: 14,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+        ddTexture: {
+            type: "enum",
+            default: "gui",
+            values: [
+                "never",
+                "gui",
+                "ground",
+                "container",
+                "always"
+            ]
+        }
+    }
+}

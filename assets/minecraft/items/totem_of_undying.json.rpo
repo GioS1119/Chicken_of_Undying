@@ -1,0 +1,9 @@
+{
+    condition: "ddTexture.gui",
+    fallback: [
+      "assets/minecraft/items/fallbacks/never/totem_of_undying.json",
+      "assets/minecraft/items/fallbacks/ground/totem_of_undying.json",
+      "assets/minecraft/items/fallbacks/container/totem_of_undying.json",
+      "assets/minecraft/items/fallbacks/always/totem_of_undying.json"
+    ]
+}
